@@ -1,5 +1,5 @@
-Players
-Mane
+Liverpool Forwards
+Nunez
 Salah
 Firmino
 
