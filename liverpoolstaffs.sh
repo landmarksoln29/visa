@@ -1,4 +1,4 @@
 # Liverpool Staff
-Jurgen Klopp
-John Dixon
-Kim Matoa
+1.Jurgen Klopp    - Head Coach
+2.John Achterberg - Goalkeeping Coach
+3.Jim Moxon       - Club Coach
