@@ -1,4 +1,4 @@
 #Liverpool forward
 Firmino
 Salah
-Mane
+Darwin
